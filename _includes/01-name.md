@@ -1,6 +1,6 @@
-# Replace this with your name, and include a header.
-## heading 2
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
+# Ran Zhang
+## About me
+Researcher in the area of machine learning/Deep learning, computational linguistics. Broadly interested in ways to teach machines to learn human concepts.
+## Education
+University of Toronto
+Background in both computer science and electrical engineering, more specifically ASIC design.
